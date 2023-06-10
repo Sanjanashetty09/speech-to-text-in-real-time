@@ -1,0 +1,4 @@
+to run the app:
+      streamlit run streamlit_app.py
+      
+I have modified in the file of speech to text conversion where the audio files had to be updated. I have not tried the api key method. 
